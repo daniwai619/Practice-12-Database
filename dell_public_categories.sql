@@ -1,0 +1,16 @@
+INSERT INTO public.categories (category, categoryname) VALUES (1, 'Action');
+INSERT INTO public.categories (category, categoryname) VALUES (2, 'Animation');
+INSERT INTO public.categories (category, categoryname) VALUES (3, 'Children');
+INSERT INTO public.categories (category, categoryname) VALUES (4, 'Classics');
+INSERT INTO public.categories (category, categoryname) VALUES (5, 'Comedy');
+INSERT INTO public.categories (category, categoryname) VALUES (6, 'Documentary');
+INSERT INTO public.categories (category, categoryname) VALUES (7, 'Drama');
+INSERT INTO public.categories (category, categoryname) VALUES (8, 'Family');
+INSERT INTO public.categories (category, categoryname) VALUES (9, 'Foreign');
+INSERT INTO public.categories (category, categoryname) VALUES (10, 'Games');
+INSERT INTO public.categories (category, categoryname) VALUES (11, 'Horror');
+INSERT INTO public.categories (category, categoryname) VALUES (12, 'Music');
+INSERT INTO public.categories (category, categoryname) VALUES (13, 'New');
+INSERT INTO public.categories (category, categoryname) VALUES (14, 'Sci-Fi');
+INSERT INTO public.categories (category, categoryname) VALUES (15, 'Sports');
+INSERT INTO public.categories (category, categoryname) VALUES (16, 'Travel');
